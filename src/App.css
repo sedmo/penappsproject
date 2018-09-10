@@ -1,0 +1,19 @@
+@font-face{
+  font-family: moonFace;
+  src: url(MoonFlower.ttf);
+}
+@font-face{
+  font-family: moonFace;
+  src: url(MoonFlowerBold.ttf);
+  font-weight: bold;
+}
+body{
+    width: 100vw;
+    background-image: url(./neonbrand-426918-unsplash.jpg);
+    background-size: cover;
+    color: white;
+    font-family: 'moonFace','Courier New', Courier, monospace;
+    letter-spacing: 8px;
+    font-size: 2.5em;
+}
+

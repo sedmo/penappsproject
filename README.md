@@ -1,3 +1,21 @@
+This project was made during PenApps XVIII 
+
+The purpose of this project was to create a web app where the teacher would be able to manipulate the content in the database.
+
+As of right now, the app can only post words to the database.
+
+The tech stack used in this project is as follows:
+
+  - Database: Google firestore
+  - Frontend: React
+  - Backend: Node
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
